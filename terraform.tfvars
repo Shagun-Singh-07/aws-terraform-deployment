@@ -1,0 +1,7 @@
+region        = "ap-south-1"
+instance_type = "t2.micro"
+
+# Amazon Linux 2 AMI for ap-south-1 (Mumbai)
+ami_id        = "ami-051a31ab2f4d498f5"
+
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC7P+MkdMJEngEuuJd2hQIdBGjCQ/gKFMMbDEOQ5glBTV0Pj2qlVRlBEEiXSD2vy8MkGlxWw6861zIpKgiPfyMlSQPFlW14xiKOcTH5IeCmnVvW4jph2t4UAIbf7LPu7D8uXsO4AOvQxCa/7ia+KIpDDXM5ybhJJkDRD1qrF76/PvRsdyZV+jK1qb4ACTTqQ4Cv6DdgqkP0jNl+TaP9kaZkRLE74oS5oUQnNML2umH5jF3djGOOwhh6jlOCOv/vI2dwLTyL51eqcwv49z5iE7exLj6rdkuRWt/T7PPphaeqQeR4oT8mIyNYp9c8SI+OqsHiqvXZhN16ZKlIM6ZGAS1uzU1dG3+hYuvp+T7Jd9CBRVEiCBDdapkA0m5KXKvTAsmezgmbw+jWEJ0kIIMyPU2+N63PzNLID7mPs0H278P2pLvyUkPw70xftHBKOHPX5IOXnFMta4HP9QochGDdoUPDx8mlu8BgEkZv9F+sriaIHlIH6YwC59T+TAPy0eBMZRTKP8/etA6cvZxEBLP8TXvfiUkli0uawTGozqAq10vRqzz7ZbtsGw454ArkINqMr7aqhgjdrKoGFVg8Fdbik+s9rFmST0i0vonvfVkGLmNmuI++RTP+DMKROeK9WPtJ09UHaTTJG6Isjv9V7cv5IF5/W5HCGmn8ti1E11GJZx9txQ== lenovo@Alexander-Slim3i"
