@@ -7,3 +7,4 @@
 # Local secrets
 *.pem
 *.key
+.aws/credentials 
